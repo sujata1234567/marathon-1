@@ -1,0 +1,24 @@
+.img{
+  background-image:url("bd.jpg");
+
+
+}  
+.color{
+   background-color:#87CEEB;
+   opacity: 0.8;
+  }
+.bg{
+  background-color:#0c0d0e;
+}
+.il{
+background-color:#121414;
+
+}
+.menu{
+background-color: black;
+color:white;
+opacity:0.8;
+}
+.text{
+  color:white;
+}
